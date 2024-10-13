@@ -100,7 +100,7 @@ model = dict(
 find_unused_parameters = True
 
 data_mode = "bottomup"
-data_root = "/dataset/hscc_golf/"
+data_root = "golfswing/"
 train_pipeline = [
     dict(type="LoadImage"),
     dict(type="BottomupRandomAffine", input_size=(640, 640)),

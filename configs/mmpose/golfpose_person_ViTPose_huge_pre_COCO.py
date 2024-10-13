@@ -90,7 +90,7 @@ model = dict(
     ))
 
 # base dataset settings
-data_root = '/dataset/hscc_golf/'
+data_root = 'golfswing/'
 dataset_type = 'CocoDataset'
 # metainfo = dict(from_file='configs/_base_/datasets/golfswing_person.py')
 data_mode = 'topdown'
