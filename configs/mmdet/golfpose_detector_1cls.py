@@ -182,7 +182,7 @@ model = dict(
 
 # dataset settings
 dataset_type = 'CocoDataset'
-data_root = '/dataset/hscc_golf/'
+data_root = 'golfswing/'
 classes = ('golfer')
 
 # Example to use different file client
