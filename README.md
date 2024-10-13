@@ -1,7 +1,7 @@
 # GolfPose: From Regular Posture to Golf Swing Posture
 
 <div align="center">
-<img src="./images/framework_v13.svg" width=75%>
+<img src="./images/framework_v13.svg" width=80%>
 </div>
 
 <br>
