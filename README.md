@@ -4,7 +4,7 @@
 
 The official implementation of **GolfPose: From Regular Posture to Golf Swing Posture** (ICPR 2024) 
 
-[Link to the paper](https://minghanlee.github.io/papers/ICPR_2024_GolfPose.pdf)
+[Paper](https://minghanlee.github.io/papers/ICPR_2024_GolfPose.pdf)
 
 ## Environment
 You can create an Anaconda environment named ``golfpose`` from `environment.yml`.
