@@ -17,7 +17,8 @@ conda activate golfpose
 ## Preparation
 ### Dataset
 
-Download the dataset from this [link](http://gofile.me/4RvCV/LoqF43SeV).
+Download the dataset from this [link](http://gofile.me/4RvCV/LoqF43SeV).<br>
+Please email [mhlee.cs09@nycu.edu.tw](mailto:mhlee.cs09@nycu.edu.tw) to authorize the dataset download.
 
 Unzip the dataset and organize it as follows:
 ```
@@ -128,10 +129,12 @@ python golfpose_3d.py -k gt -d golf -str G1,G2,G3,G4 -ste G5,G6 -c golfpose_chec
 
 ## Citation
 ```
-@inproceedings{lee2024golfpose,
+@inproceedings{lee2025golfpose,
   title={GolfPose: From Regular Posture to Golf Swing Posture},
   author={Lee, Ming-Han and Zhang, Yu-Chen and Wu, Kun-Ru and Tseng, Yu-Chee},
-  booktitle={2024 27th International Conference on Pattern Recognition (ICPR)},
-  year={2024},
+  booktitle={International Conference on Pattern Recognition},
+  pages={387--402},
+  year={2025},
+  organization={Springer}
 }
 ```
