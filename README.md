@@ -94,21 +94,21 @@ GolfPose
 #### Evaluate Golfpose detector:
 
 ```shell
-python mmdet_test.py configs/mmdet/***.py checkpoints/***.pth
+python mmdet_test.py configs/mmdet/***.py golfpose_checkpoints/***.pth
 ```
 Example:
 ```shell
-python mmdet_test.py configs/mmdet/golfpose_detector_2cls.py checkpoints/golfpose_detector_2cls_faster_rcnn.pth
+python mmdet_test.py configs/mmdet/golfpose_detector_2cls.py golfpose_checkpoints/golfpose_detector_2cls_faster_rcnn.pth
 ```
 
 #### Evaluate GolfPose-2D models:
 
 ```shell
-python mmpose_test.py configs/mmpose/***.py checkpoints/***.pth
+python mmpose_test.py configs/mmpose/***.py golfpose_checkpoints/***.pth
 ```
 Example:
 ```shell
-python mmpose_test.py configs/mmpose/golfpose_golfer_hrnetw48.py checkpoints/golfpose_golfer_hrnetw48.pth
+python mmpose_test.py configs/mmpose/golfpose_golfer_hrnetw48.py golfpose_checkpoints/golfpose_golfer_hrnetw48.pth
 ```
 
 #### Evaluate GolfPose-3D models:
