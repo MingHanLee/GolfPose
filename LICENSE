@@ -1,0 +1,24 @@
+# GolfPose Dataset End User License Agreement (EULA)
+
+By downloading, accessing, or using the GolfPose dataset (hereinafter "the Dataset"), you agree to be bound by the following terms and conditions. If you do not agree to these terms, do not download or use the Dataset.
+
+## 1. Permitted Uses
+You are granted a non-exclusive, non-transferable, and non-sublicensable license to use the Dataset under the following conditions:
+- **Research & Development**: You may use the Dataset for internal research, evaluation, and the training of machine learning models.
+- **Commercialization of Derived Models**: You are permitted to integrate the machine learning models trained on this Dataset into commercial products or services.
+
+## 2. Prohibited Uses
+To protect the integrity of the Dataset and the privacy of the subjects, the following actions are strictly prohibited:
+- **No Redistribution**: You may not publish, share, distribute, or make the raw Dataset (including images, videos, and annotations) available to any third party in any form (e.g., public links, GitHub repositories, cloud storage).
+- **No Resale**: You may not sell, lease, or directly monetize the raw Dataset or any slightly modified version of the raw data.
+- **No Re-identification**: You may not use the Dataset for identity recognition, facial recognition, or any attempt to identify or contact the individuals depicted in the Dataset.
+- **No Endorsement**: You may not claim or imply that your derived models or commercial products are endorsed by the authors, the PAIR Lab, or National Yang Ming Chiao Tung University.
+
+## 3. Attribution
+If you use the Dataset or models trained from it in academic research, publications, or commercial product documentation, you must provide appropriate credit by citing the GolfPose dataset and its associated paper or project URL.
+
+## 4. Disclaimer of Warranties and Limitation of Liability
+The Dataset is provided "AS IS", without warranty of any kind, express or implied. In no event shall the authors or copyright holders be liable for any claim, damages, or other liability arising from, out of, or in connection with the Dataset or the use or other dealings in the Dataset.
+
+## 5. Termination
+This license will terminate automatically if you fail to comply with any of the terms and conditions outlined above. Upon termination, you must cease all use of the Dataset and permanently delete all copies of the raw Dataset in your possession.
