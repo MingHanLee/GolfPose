@@ -138,3 +138,6 @@ python golfpose_3d.py -k gt -d golf -str G1,G2,G3,G4 -ste G5,G6 -c golfpose_chec
   organization={Springer}
 }
 ```
+
+## LICENSE
+*This project uses a custom EULA. You are allowed to use the dataset for commercial model training, but strictly prohibited from redistributing or reselling the raw data. Please refer to the [LICENSE](LICENSE) file for details.*
